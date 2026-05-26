@@ -1,0 +1,2 @@
+# Customer-Sentiment-Analysis-using-TinyLlama-Streamlit
+AI-powered Customer Sentiment Analysis system using TinyLlama, Hugging Face Transformers, and Streamlit to analyze customer call transcripts from JSON files and classify sentiments as Positive, Neutral, or Negative. Features local model loading, Streamlit caching, CSV export, and scalable transcript processing for Voice of Customer (VOC) analytics.
