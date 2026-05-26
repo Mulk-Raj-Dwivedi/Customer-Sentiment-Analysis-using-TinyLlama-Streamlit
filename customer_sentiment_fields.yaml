@@ -1,0 +1,12 @@
+
+fields:
+  - name: customer_sentiment
+    description: |
+      Analyze ONLY the CUSTOMER statements.
+
+      Determine the overall customer sentiment.
+
+      Allowed values:
+      - Positive
+      - Neutral
+      - Negative

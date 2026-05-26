@@ -1,0 +1,12 @@
+call_id,file_name,customer_sentiment,customer_text
+CALL_001,call_001.json,Positive,I wanted to check why my credit card reward points are not updated yet. Honestly this has happened multiple times and it becomes frustrating. But I appreciate that you are checking it properly now.
+CALL_002,call_002.json,Negative,My insurance claim is still pending after three weeks. I am extremely unhappy with the service quality. Please do because this is becoming unacceptable.
+CALL_003,call_003.json,Positive,"I was initially upset about the EMI charges. But after your explanation it makes more sense now. Thank you, I am satisfied now."
+CALL_004,call_004.json,Negative,The mobile app keeps crashing during transactions. Sometimes it works fine but today it failed again during payment. I hope this gets fixed soon.
+CALL_005,call_005.json,Positive,I wanted to thank your branch team. Last month I was upset about the loan delay. But your staff handled everything professionally afterwards.
+CALL_006,call_006.json,Positive,"My account got debited twice yesterday. I am worried because this amount is important for me. Okay, I feel slightly relieved now."
+CALL_007,call_007.json,Negative,"Your executive promised a callback but nobody contacted me. This is really poor customer service. Fine, I will wait till tomorrow."
+CALL_008,call_008.json,Positive,The account opening process was smooth. Although document verification took slightly longer than expected. Overall the experience was good.
+CALL_009,call_009.json,Negative,I am confused about these hidden charges. I still think the charges are unfair. Honestly I am disappointed.
+CALL_010,call_010.json,Positive,I received excellent support from your branch. Earlier I faced some delays but your team resolved everything quickly. I am very satisfied with the service now.
+CALL_001,sample_transcript(1).json,Negative,I am extremely disappointed with the delay in claim settlement. This issue has happened multiple times and I am frustrated.
