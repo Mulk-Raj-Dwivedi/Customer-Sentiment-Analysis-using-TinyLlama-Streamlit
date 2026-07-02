@@ -98,7 +98,7 @@ Customer-Sentiment-Analysis/
 │   └── other model files
 
 │
-├── sample_transcripts/
+├── sample transcripts/
 
 │   ├── call_001.json
 
@@ -184,7 +184,7 @@ slow app startup
 
 internet dependency
 
-7. sample_transcripts/
+7. sample transcripts/
 
 Contains sample customer call transcript JSON files.
 
@@ -232,7 +232,8 @@ Installation
 
 Clone Repository
 
-cd Customer-Sentiment-Analysis
+git clone https://github.com/Mulk-Raj-Dwivedi/Customer-Sentiment-Analysis-using-TinyLlama-Streamlit.git
+cd Customer-Sentiment-Analysis-using-TinyLlama-Streamlit
 
 
 Install Dependencies
@@ -409,4 +410,3 @@ Streamlit UI screenshot
 Transcript JSONs
 
 Prediction CSV output
-
